@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Zifei Zhao"
   avatar : "/assets/images/bio-photo1.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Hi! I'm Zifei and I'm interested in math and computer science. In my free time, I enjoy playing violin, chess, and swimming."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
