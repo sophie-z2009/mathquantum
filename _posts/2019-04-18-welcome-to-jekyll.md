@@ -14,18 +14,4 @@ Modern elections involve complex math problems, such as determining election out
 
 Rather than designing a new voting algorithm, this project will survey current research at the intersection of quantum computing and social choice theory. It will explore how concepts such as quantum algorithms, cryptography, superposition, and linear algebra can contribute to future election systems and identify opportunities and limitations of applying QIS to democratic processes.
 
-Jekyll also offers powerful support for code snippets:
-
-```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-```
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Research question: Can quantum algorithms and QIS improve the efficiency, security, or fairness of modern voting systems?
